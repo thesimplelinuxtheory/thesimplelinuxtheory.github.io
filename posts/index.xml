@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on The Simple Linux Theory</title>
-    <link>/posts/</link>
+    <link>https://thesimplelinuxtheory.github.io/posts/</link>
     <description>Recent content in Posts on The Simple Linux Theory</description>
     <image>
       <title>The Simple Linux Theory</title>
-      <url>papermod-cover.png</url>
-      <link>papermod-cover.png</link>
+      <url>https://thesimplelinuxtheory.github.io/papermod-cover.png</url>
+      <link>https://thesimplelinuxtheory.github.io/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 06 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://thesimplelinuxtheory.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linux for All</title>
-      <link>/posts/whypeopledontuselinux/</link>
+      <link>https://thesimplelinuxtheory.github.io/posts/whypeopledontuselinux/</link>
       <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>/posts/whypeopledontuselinux/</guid>
+      <guid>https://thesimplelinuxtheory.github.io/posts/whypeopledontuselinux/</guid>
       <description>Linux is more stable and secure...</description>
     </item>
     
     <item>
       <title>Wireguard plus Pi-hole </title>
-      <link>/posts/wireguardpluspihole/</link>
+      <link>https://thesimplelinuxtheory.github.io/posts/wireguardpluspihole/</link>
       <pubDate>Sun, 05 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>/posts/wireguardpluspihole/</guid>
+      <guid>https://thesimplelinuxtheory.github.io/posts/wireguardpluspihole/</guid>
       <description>VPN plus adblocker</description>
     </item>
     
     <item>
       <title>Pi-hole</title>
-      <link>/posts/pihole/</link>
+      <link>https://thesimplelinuxtheory.github.io/posts/pihole/</link>
       <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>/posts/pihole/</guid>
+      <guid>https://thesimplelinuxtheory.github.io/posts/pihole/</guid>
       <description>Add an extra layer of security to your network</description>
     </item>
     
     <item>
       <title>Wireguard</title>
-      <link>/posts/wireguardfordummies/</link>
+      <link>https://thesimplelinuxtheory.github.io/posts/wireguardfordummies/</link>
       <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>/posts/wireguardfordummies/</guid>
+      <guid>https://thesimplelinuxtheory.github.io/posts/wireguardfordummies/</guid>
       <description>Make your own VPN</description>
     </item>
     

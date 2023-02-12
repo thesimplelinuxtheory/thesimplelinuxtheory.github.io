@@ -2,47 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/posts/whypeopledontuselinux/</loc>
+    <loc>https://thesimplelinuxtheory.github.io/posts/whypeopledontuselinux/</loc>
     <lastmod>2023-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>https://thesimplelinuxtheory.github.io/posts/</loc>
     <lastmod>2023-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>https://thesimplelinuxtheory.github.io/</loc>
     <lastmod>2023-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/projects/hugowebsites/</loc>
+    <loc>https://thesimplelinuxtheory.github.io/projects/hugowebsites/</loc>
     <lastmod>2023-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/projects/</loc>
+    <loc>https://thesimplelinuxtheory.github.io/projects/</loc>
     <lastmod>2023-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/wireguardpluspihole/</loc>
+    <loc>https://thesimplelinuxtheory.github.io/posts/wireguardpluspihole/</loc>
     <lastmod>2023-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/pihole/</loc>
+    <loc>https://thesimplelinuxtheory.github.io/posts/pihole/</loc>
     <lastmod>2023-02-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/wireguardfordummies/</loc>
+    <loc>https://thesimplelinuxtheory.github.io/posts/wireguardfordummies/</loc>
     <lastmod>2023-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/projects/introtohugo/</loc>
+    <loc>https://thesimplelinuxtheory.github.io/projects/introtohugo/</loc>
     <lastmod>2023-02-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/about/</loc>
+    <loc>https://thesimplelinuxtheory.github.io/about/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/contact/</loc>
+    <loc>https://thesimplelinuxtheory.github.io/contact/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/archives/</loc>
+    <loc>https://thesimplelinuxtheory.github.io/archives/</loc>
   </url><url>
-    <loc>/archives/</loc>
+    <loc>https://thesimplelinuxtheory.github.io/archives/</loc>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://thesimplelinuxtheory.github.io/categories/</loc>
   </url><url>
-    <loc>/series/</loc>
+    <loc>https://thesimplelinuxtheory.github.io/series/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://thesimplelinuxtheory.github.io/tags/</loc>
   </url>
 </urlset>

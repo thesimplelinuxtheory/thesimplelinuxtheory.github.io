@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Projects on The Simple Linux Theory</title>
-    <link>/projects/</link>
+    <link>https://thesimplelinuxtheory.github.io/projects/</link>
     <description>Recent content in Projects on The Simple Linux Theory</description>
     <image>
       <title>The Simple Linux Theory</title>
-      <url>papermod-cover.png</url>
-      <link>papermod-cover.png</link>
+      <url>https://thesimplelinuxtheory.github.io/papermod-cover.png</url>
+      <link>https://thesimplelinuxtheory.github.io/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 05 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://thesimplelinuxtheory.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo Websites for Beginners</title>
-      <link>/projects/hugowebsites/</link>
+      <link>https://thesimplelinuxtheory.github.io/projects/hugowebsites/</link>
       <pubDate>Sun, 05 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>/projects/hugowebsites/</guid>
+      <guid>https://thesimplelinuxtheory.github.io/projects/hugowebsites/</guid>
       <description>fast, reliable, secure...</description>
     </item>
     
     <item>
       <title>Introduction to Hugo Static Websites </title>
-      <link>/projects/introtohugo/</link>
+      <link>https://thesimplelinuxtheory.github.io/projects/introtohugo/</link>
       <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>/projects/introtohugo/</guid>
+      <guid>https://thesimplelinuxtheory.github.io/projects/introtohugo/</guid>
       <description>Hugo Static Websites are extraordinary!</description>
     </item>
     
