@@ -10,7 +10,16 @@
       <link>https://thesimplelinuxtheory.github.io/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 13 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://thesimplelinuxtheory.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://thesimplelinuxtheory.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fedora Silverblue 37</title>
+      <link>https://thesimplelinuxtheory.github.io/posts/fedora-silverblue37/</link>
+      <pubDate>Tue, 14 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesimplelinuxtheory.github.io/posts/fedora-silverblue37/</guid>
+      <description>Fedora Silverblue 37: An Immutable Operating System for Improved Stability and Security. </description>
+    </item>
+    
     <item>
       <title>Linux Command-Line</title>
       <link>https://thesimplelinuxtheory.github.io/posts/command-line/</link>
