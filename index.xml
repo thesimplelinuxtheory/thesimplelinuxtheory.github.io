@@ -10,7 +10,25 @@
       <link>https://thesimplelinuxtheory.github.io/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 14 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://thesimplelinuxtheory.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://thesimplelinuxtheory.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Virtual Machines</title>
+      <link>https://thesimplelinuxtheory.github.io/posts/fedora-silverblue-copy/</link>
+      <pubDate>Thu, 16 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesimplelinuxtheory.github.io/posts/fedora-silverblue-copy/</guid>
+      <description>Virtual machines have become increasingly popular in recent years due to their ability to provide a secure and isolated environment...</description>
+    </item>
+    
+    <item>
+      <title>Fedora Silverblue 37</title>
+      <link>https://thesimplelinuxtheory.github.io/posts/fedora-silverblue/</link>
+      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesimplelinuxtheory.github.io/posts/fedora-silverblue/</guid>
+      <description>I utilize Fedora Silverblue 37 due to the containers feature of the system.</description>
+    </item>
+    
     <item>
       <title>Fedora Silverblue 37</title>
       <link>https://thesimplelinuxtheory.github.io/posts/fedora-silverblue37/</link>
@@ -89,8 +107,8 @@
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://thesimplelinuxtheory.github.io/about/</guid>
-      <description>Hello everyone! I&amp;rsquo;ve been on a mission to discover new technologies and tools in the realm of open source software as a computer enthusiast. My initial step was to switch to Linux and become familiar with the command line.
-I began using Linux as the operating system on my personal computer and have been astonished by its reliability, security, and customization. Then, I learnt how Docker simplifies the creation, deployment, and execution of containerized apps.</description>
+      <description>Windows User As a former Windows user, I decided to make the switch to Linux a few years ago. The main reason for the switch was that Linux offered me more safety, privacy, and control over my system. I initially started with Manjaro, but I found the experience to be too challenging due to the harsh community towards beginners, lack of tutorials, and overwhelming nature of the operating system.
+Ubuntu Undeterred, I decided to give Ubuntu a try, and it was a much better fit.</description>
     </item>
     
     <item>

@@ -10,7 +10,25 @@
       <link>https://thesimplelinuxtheory.github.io/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 14 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://thesimplelinuxtheory.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://thesimplelinuxtheory.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Virtual Machines</title>
+      <link>https://thesimplelinuxtheory.github.io/posts/fedora-silverblue-copy/</link>
+      <pubDate>Thu, 16 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesimplelinuxtheory.github.io/posts/fedora-silverblue-copy/</guid>
+      <description>Virtual machines have become increasingly popular in recent years due to their ability to provide a secure and isolated environment...</description>
+    </item>
+    
+    <item>
+      <title>Fedora Silverblue 37</title>
+      <link>https://thesimplelinuxtheory.github.io/posts/fedora-silverblue/</link>
+      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesimplelinuxtheory.github.io/posts/fedora-silverblue/</guid>
+      <description>I utilize Fedora Silverblue 37 due to the containers feature of the system.</description>
+    </item>
+    
     <item>
       <title>Fedora Silverblue 37</title>
       <link>https://thesimplelinuxtheory.github.io/posts/fedora-silverblue37/</link>
